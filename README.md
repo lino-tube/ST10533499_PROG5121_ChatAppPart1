@@ -1,14 +1,14 @@
 # Chat Application Part 1
 
 ## Student Information
--Name: Linothando Tube
--Student Number: ST10533499
--Module: PROG5121
+ Name: Linothando Tube
+ Student Number: ST10533499
+ Module: PROG5121
 
 ---
 
 ## Project Information
--Three class have been created:
+ Three class have been created:
   Login.java,
   MainApp.java, and 
   LoginTest.java
